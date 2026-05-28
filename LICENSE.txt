@@ -17,4 +17,4 @@ Figma Edition. Collaborative interface design with components, auto-layout, prot
 
 
 TAGS
-figma, figma-desktop, ui-design, prototyping, figjam               
+figma, figma-desktop, ui-design, prototyping, figjam                
